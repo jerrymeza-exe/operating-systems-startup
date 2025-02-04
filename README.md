@@ -1,2 +1,2 @@
 # operating-systems-startup
-Simulating Computer Startup Processes by Gerardo Meza &amp; Jorge Padilla 
+Simulating Computer Startup Processes in C++ by Gerardo Meza &amp; Jorge Padilla 
